@@ -86,3 +86,4 @@ telaria.com, rwd19-2116653, RESELLER, 1a4e959a1b50034a
 mintegral.com, 10038, RESELLER
 velismedia.com, 725, RESELLER
 velismedia.com, 1137, RESELLER
+google.com, pub-9857806783758550, DIRECT, f08c47fec0942fa0
